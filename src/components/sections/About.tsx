@@ -159,7 +159,7 @@ export function About() {
                   <h4 className="text-xl font-semibold">Education</h4>
                 </div>
                 <p className="text-muted-foreground">
-                  <strong>Jee Aspirant Currently in 11th (Artificial Intelligence Lerner)</strong><br />
+                  <strong> Cyber Security Analyst  (Artificial Intelligence Lerner)</strong><br />
                   Dream collage Indian Institute of Technology Bombay<br />
                   Expected Graduation: 2030
                 </p>
